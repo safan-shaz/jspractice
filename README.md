@@ -1,0 +1,2 @@
+# jspractice
+javascript days practice 
